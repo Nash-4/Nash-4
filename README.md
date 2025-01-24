@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Nash! 👋
 
-<!--
-**Nash-4/Nash-4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+## About Me
+I'm a recent master's graduate in Computer Science, specializing in **Software Engineering**. My passion lies at the intersection of technology, innovation, and problem-solving.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I Do
+- **Flutter Developer**: Creating sleek, responsive, and user-friendly cross-platform mobile applications.
+- **DevOps Engineer**: Ensuring smooth deployment pipelines, scalable systems, and robust CI/CD processes.
+
+## My Background
+Previously, I delved into **Privacy Preserving Machine Learning**, focusing on secure and private data processing techniques.
+
+## Let's Connect
+Feel free to check out my repositories, collaborate on projects, or connect with me!
