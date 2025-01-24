@@ -11,6 +11,3 @@ I'm a recent master's graduate in Computer Science, specializing in **Software E
 
 ## My Background
 Previously, I delved into **Privacy Preserving Machine Learning**, focusing on secure and private data processing techniques.
-
-## Let's Connect
-Feel free to check out my repositories, collaborate on projects, or connect with me!
