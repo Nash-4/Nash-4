@@ -11,3 +11,8 @@ I'm a recent master's graduate in Computer Science, specializing in **Software E
 
 ## My Background
 Previously, I delved into **Privacy Preserving Machine Learning**, focusing on training ML models with different types of encrypted data (such as CKKS, Paillier, and BFV)
+
+
+**Note:**  This is my alternate account. Here's the link for my original account: [Akash-1gif](https://github.com/Akash-1gif)
+
+Yes, my name is Akash...
