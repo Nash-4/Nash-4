@@ -10,4 +10,4 @@ I'm a recent master's graduate in Computer Science, specializing in **Software E
 - **DevOps Engineer**: Ensuring smooth deployment pipelines, scalable systems, and robust CI/CD processes.
 
 ## My Background
-Previously, I delved into **Privacy Preserving Machine Learning**, focusing on secure and private data processing techniques.
+Previously, I delved into **Privacy Preserving Machine Learning**, focusing on training ML models with different types of encrypted data (such as CKKS, Paillier, and BFV)
